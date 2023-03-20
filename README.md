@@ -1,0 +1,2 @@
+# koukyouzaigamesshcodes
+公共財ゲームの実験のコード集です
